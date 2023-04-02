@@ -1,4 +1,4 @@
-class pattern1 {
+class pattern_recursion {
     public static void main(String[] args) {
         triangle2(4, 0);
     }
