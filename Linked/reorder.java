@@ -28,6 +28,7 @@ class reorder {
 
     public void reorder(ListNode head) {
         if (head == null || head.next == null) {
+
             return;
         }
         ListNode mid = middleNode(head);
