@@ -72,11 +72,23 @@ public class build_trees {
             while (!q.isEmpty()) {
                 Node currNode = q.remove();
                 if (currNode == null) {
-
+                    System.out.println();
+                    if (q.isEmpty()) {
+                        break;
+                    } else {
+                        q.add(null);
+                    }
+                } else {
+                    System.out.print(currNode.data + " ");
+                    if (currNode.left != null)
+                        q.add(currNode.left);
+                    if (currNode.right != null)
+                        q.add(currNode.right);
                 }
-            }
 
+            }
         }
+
     }
 
     public static void main(String args[]) {
@@ -85,6 +97,7 @@ public class build_trees {
         Node root = tree.buildTree(nodes);
         // System.out.println(root.data);
         // tree.preorder(root);
-        tree.postorder(root);
+        // tree.postorder(root);
+        tree.levelOrder(root);
     }
 }
