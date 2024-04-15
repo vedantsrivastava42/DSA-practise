@@ -58,7 +58,7 @@ public class height {
         root.left.right = new Node(5);
         root.right.left = new Node(6);
         root.right.right = new Node(7);
-        // System.out.println(height(root));
+         System.out.println(height(root));
         System.out.println(count(root));
         System.out.println(sum(root));
     }
