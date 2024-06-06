@@ -1,6 +1,6 @@
 class sorted {
     public static void main(String[] args) {
-        int[] arr = { 1, 2, 3, 5, 18, 16 };
+        int[] arr = { 1, 2, 3, 5, 16, 11 };
         System.out.println(sorted(arr, 0));
     }
 
@@ -8,6 +8,8 @@ class sorted {
         if (index == arr.length - 1)
             return true;
 
-        return arr[index] < arr[index + 1] && sorted(arr, index + 1);
+        if(arr[index] > arr[index + 1])
+        return false;
+        return sorted(arr, index + 1);
     }
 }

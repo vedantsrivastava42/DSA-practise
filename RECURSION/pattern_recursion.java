@@ -22,7 +22,7 @@ class pattern_recursion {
             return;
         }
         if (c < r) {
-            triangle2(r, c + 1);
+            triangle2(r, c + 1); 
             System.out.print("*"); // this line will only execute when previous func is finished executing
         } else {
             triangle2(r - 1, 0);

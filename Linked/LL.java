@@ -203,7 +203,7 @@ public class LL {
 
     // Leetcode Qn 206
     // Reverse of LinkedList without Recursion
-    public ListNode reverseList(ListNode head) {
+    public Node reverseList(ListNode head) {
         if (head == null) {
             return head;
         }

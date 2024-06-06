@@ -3,14 +3,14 @@ class sum_2Darray {
     static void sum2d(int[][] accounts){
         int sum=0;
         int x;
-    for(int i=0;i<accounts.length;i++){
-    x=0;
-    for(int j=0;j<accounts[i].length;j++){
-        x=x+accounts[i][j];
-    }
-    sum=Math.max(x,sum);
+        for (int[] account : accounts) {
+            x = 0;
+            for (int j = 0; j < account.length; j++) {
+                x = x + account[j];
+            }
+            sum = Math.max(x, sum);
 
-    }
+        }
    System.out.println(sum);
 
     }

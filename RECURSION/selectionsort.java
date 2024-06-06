@@ -7,25 +7,22 @@ class selectionsort {
         System.out.println(Arrays.toString(arr));
     }
 
-    static void selection(int[] arr, int r, int c, int max) {
-        if (r == 0) {
+    static void selection(int[] arr, int i, int j, int max) {
+        if (i == 0) {
             return;
         }
-        if (c < r) {
-            if (arr[c] > arr[max]) {
-                selection(arr, r, c + 1, c);
-
-            } else {
-                selection(arr, r, c + 1, max);
-            }
-        } else {
-
-            // swap
-            int temp = arr[max];
-            arr[max] = arr[r - 1];
-            arr[r - 1] = temp;
-
-            selection(arr, r - 1, 0, 0);
+      if(j<i){
+        if(arr[j]>arr[max]){
+        selection(arr,i,j+1,j);
         }
+       else
+       selection(arr,i,j+1,max);
+      }
+     else{
+        int temp=arr[i-1];
+        arr[i-1]=arr[max];
+        arr[max]=temp;
+        selection(arr,i-1,0,0);
+     }
     }
 }

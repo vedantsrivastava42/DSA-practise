@@ -7,21 +7,22 @@ class recursion_bubble {
         System.out.println(Arrays.toString(arr));
     }
 
-    static void bubble(int[] arr, int r, int c) {
-        if (r == 0) {
-            return;
-        }
-        if (c < r) {
-            if (arr[c] > arr[c + 1]) {
-                // swap
-                int temp = arr[c];
-                arr[c] = arr[c + 1];
-                arr[c + 1] = temp;
+    static void bubble(int[] arr, int i, int j) {
+            if (i == 0) {
+                return;
             }
-            bubble(arr, r, c + 1);
-        } else {
-
-            bubble(arr, r - 1, 0);
+       if(j<i){
+        //till j<i if j==i that is the last element(already sorted)
+        if(arr[j]>arr[j+1]){
+            int temp=arr[j];
+            arr[j]=arr[j+1];
+            arr[j+1]=temp;
         }
-    }
+        bubble(arr,i,j+1);
+       }
+       else{
+        //when last element is reached decrease i and j=0.
+        bubble(arr,i-1,0);
+       }
+}
 }
