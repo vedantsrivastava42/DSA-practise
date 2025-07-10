@@ -1,1102 +1,1804 @@
 [
   {
     "id": 1,
-    "title": "Problem 1",
+    "title": "Largest Element in an Array",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "basic"],
+    "url": ""
   },
   {
     "id": 2,
-    "title": "Problem 2",
+    "title": "Second Largest Element in an Array without sorting",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "basic"],
+    "url": ""
   },
   {
     "id": 3,
-    "title": "Problem 3",
+    "title": "Check if the array is sorted",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "basic"],
+    "url": ""
   },
   {
     "id": 4,
-    "title": "Problem 4",
+    "title": "Remove duplicates from Sorted array",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "two-pointers"],
+    "url": ""
   },
   {
     "id": 5,
-    "title": "Problem 5",
+    "title": "Left Rotate an array by one place",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "rotation"],
+    "url": ""
   },
   {
     "id": 6,
-    "title": "Problem 6",
+    "title": "Left rotate an array by D places",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "rotation"],
+    "url": ""
   },
   {
     "id": 7,
-    "title": "Problem 7",
+    "title": "Move Zeros to end",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "two-pointers"],
+    "url": ""
   },
   {
     "id": 8,
-    "title": "Problem 8",
+    "title": "Linear Search",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "search"],
+    "url": ""
   },
   {
     "id": 9,
-    "title": "Problem 9",
-    "difficulty": "easy",
+    "title": "Find the Union",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "set"],
+    "url": ""
   },
   {
     "id": 10,
-    "title": "Problem 10",
+    "title": "Find missing number in an array",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "math"],
+    "url": ""
   },
   {
     "id": 11,
-    "title": "Problem 11",
+    "title": "Maximum Consecutive Ones",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "counting"],
+    "url": ""
   },
   {
     "id": 12,
-    "title": "Problem 12",
-    "difficulty": "easy",
+    "title": "Find the number that appears once, and other numbers twice.",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "bit-manipulation"],
+    "url": ""
   },
   {
     "id": 13,
-    "title": "Problem 13",
-    "difficulty": "easy",
+    "title": "Longest subarray with given sum K(positives)",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "prefix-sum"],
+    "url": ""
   },
   {
     "id": 14,
-    "title": "Problem 14",
-    "difficulty": "easy",
+    "title": "Longest subarray with sum K (Positives + Negatives)",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "hashing"],
+    "url": ""
   },
   {
     "id": 15,
-    "title": "Problem 15",
-    "difficulty": "easy",
+    "title": "2Sum Problem",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "hash-table"],
+    "url": ""
   },
   {
     "id": 16,
-    "title": "Problem 16",
-    "difficulty": "easy",
+    "title": "Sort an array of 0's 1's and 2's",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "dutch-national-flag"],
+    "url": ""
   },
   {
     "id": 17,
-    "title": "Problem 17",
+    "title": "Majority Element (>n/2 times)",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "moore-voting"],
+    "url": ""
   },
   {
     "id": 18,
-    "title": "Problem 18",
+    "title": "Kadane's Algorithm, maximum subarray sum",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "kadane"],
+    "url": ""
   },
   {
     "id": 19,
-    "title": "Problem 19",
-    "difficulty": "easy",
+    "title": "Print subarray with maximum subarray sum",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "kadane"],
+    "url": ""
   },
   {
     "id": 20,
-    "title": "Problem 20",
+    "title": "Stock Buy and Sell",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "greedy"],
+    "url": ""
   },
   {
     "id": 21,
-    "title": "Problem 21",
-    "difficulty": "easy",
+    "title": "Rearrange array in alternating positive & negative items",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "two-pointers"],
+    "url": ""
   },
   {
     "id": 22,
-    "title": "Problem 22",
-    "difficulty": "easy",
+    "title": "Next Permutation",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "greedy"],
+    "url": ""
   },
   {
     "id": 23,
-    "title": "Problem 23",
+    "title": "Leaders in an Array problem",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "reverse-traversal"],
+    "url": ""
   },
   {
     "id": 24,
-    "title": "Problem 24",
-    "difficulty": "easy",
+    "title": "Longest Consecutive Sequence",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "hashing"],
+    "url": ""
   },
   {
     "id": 25,
-    "title": "Problem 25",
-    "difficulty": "easy",
+    "title": "Set Matrix Zeros",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["matrix", "brute-force"],
+    "url": ""
   },
   {
     "id": 26,
-    "title": "Problem 26",
-    "difficulty": "easy",
+    "title": "Rotate Matrix by 90 degrees",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["matrix", "in-place"],
+    "url": ""
   },
   {
     "id": 27,
-    "title": "Problem 27",
-    "difficulty": "easy",
+    "title": "Print the matrix in spiral manner",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["matrix", "traversal"],
+    "url": ""
   },
   {
     "id": 28,
-    "title": "Problem 28",
+    "title": "Count subarrays with given sum",
     "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "prefix-sum"],
+    "url": ""
   },
   {
     "id": 29,
-    "title": "Problem 29",
-    "difficulty": "easy",
+    "title": "Pascal's Triangle",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "math"],
+    "url": ""
   },
   {
     "id": 30,
-    "title": "Problem 30",
-    "difficulty": "easy",
+    "title": "Majority Element (n/3 times)",
+    "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "moore-voting"],
+    "url": ""
   },
   {
     "id": 31,
-    "title": "Problem 31",
+    "title": "3-Sum Problem",
     "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "two-pointers"],
+    "url": ""
   },
   {
     "id": 32,
-    "title": "Problem 32",
-    "difficulty": "medium",
+    "title": "4-Sum Problem",
+    "difficulty": "hard",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "two-pointers"],
+    "url": ""
   },
   {
     "id": 33,
-    "title": "Problem 33",
+    "title": "Largest Subarray with 0 Sum",
     "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "prefix-sum"],
+    "url": ""
   },
   {
     "id": 34,
-    "title": "Problem 34",
-    "difficulty": "medium",
+    "title": "Count number of subarrays with given xor K",
+    "difficulty": "hard",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "prefix-xor"],
+    "url": ""
   },
   {
     "id": 35,
-    "title": "Problem 35",
+    "title": "Merge Overlapping Subintervals",
     "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["interval", "sorting"],
+    "url": ""
   },
   {
     "id": 36,
-    "title": "Problem 36",
+    "title": "Merge two sorted arrays without extra space",
     "difficulty": "medium",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "two-pointers"],
+    "url": ""
   },
   {
     "id": 37,
-    "title": "Problem 37",
-    "difficulty": "medium",
+    "title": "Find the repeating and missing number",
+    "difficulty": "hard",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "math"],
+    "url": ""
   },
   {
     "id": 38,
-    "title": "Problem 38",
-    "difficulty": "medium",
+    "title": "Count Inversions",
+    "difficulty": "hard",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "merge-sort"],
+    "url": ""
   },
   {
     "id": 39,
-    "title": "Problem 39",
-    "difficulty": "medium",
+    "title": "Reverse Pairs",
+    "difficulty": "hard",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "merge-sort"],
+    "url": ""
   },
   {
     "id": 40,
-    "title": "Problem 40",
-    "difficulty": "medium",
+    "title": "Maximum Product Subarray",
+    "difficulty": "easy",
     "topic": "arrays",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["array", "dp"],
+    "url": ""
   },
   {
     "id": 41,
-    "title": "Problem 41",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Binary Search to find X",
+    "difficulty": "easy",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 42,
-    "title": "Problem 42",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Implement Lower Bound",
+    "difficulty": "easy",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 43,
-    "title": "Problem 43",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Implement Upper Bound",
+    "difficulty": "easy",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 44,
-    "title": "Problem 44",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Search Insert Position",
+    "difficulty": "easy",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 45,
-    "title": "Problem 45",
+    "title": "Floor/Ceil in Sorted Array",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 46,
-    "title": "Problem 46",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "First or Last occurrence of a number",
+    "difficulty": "easy",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 47,
-    "title": "Problem 47",
+    "title": "Search in Rotated Sorted Array I",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 48,
-    "title": "Problem 48",
+    "title": "Search in Rotated Sorted Array II",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 49,
-    "title": "Problem 49",
+    "title": "Find min in Rotated Sorted Array",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 50,
-    "title": "Problem 50",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Count occurrences of a number",
+    "difficulty": "easy",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 51,
-    "title": "Problem 51",
+    "title": "Find Peak Element",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 52,
-    "title": "Problem 52",
+    "title": "Search in a 2D Matrix",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "matrix"],
+    "url": ""
   },
   {
     "id": 53,
-    "title": "Problem 53",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Find Median of 2 sorted arrays",
+    "difficulty": "hard",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "merge"],
+    "url": ""
   },
   {
     "id": 54,
-    "title": "Problem 54",
+    "title": "Single Element in a Sorted Array",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 55,
-    "title": "Problem 55",
+    "title": "Koko Eating Bananas",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "greedy"],
+    "url": ""
   },
   {
     "id": 56,
-    "title": "Problem 56",
+    "title": "Minimum Days to Make M Bouquets",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "greedy"],
+    "url": ""
   },
   {
     "id": 57,
-    "title": "Problem 57",
+    "title": "Capacity to ship packages within D days",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "greedy"],
+    "url": ""
   },
   {
     "id": 58,
-    "title": "Problem 58",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Kth Missing Positive Number",
+    "difficulty": "easy",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 59,
-    "title": "Problem 59",
+    "title": "Book Allocation Problem",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "greedy"],
+    "url": ""
   },
   {
     "id": 60,
-    "title": "Problem 60",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Aggressive Cows Problem",
+    "difficulty": "hard",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "greedy"],
+    "url": ""
   },
   {
     "id": 61,
-    "title": "Problem 61",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Painter's Partition Problem",
+    "difficulty": "hard",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "greedy"],
+    "url": ""
   },
   {
     "id": 62,
-    "title": "Problem 62",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Allocate Minimum Number of Pages",
+    "difficulty": "hard",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "greedy"],
+    "url": ""
   },
-  {
+ {
     "id": 63,
-    "title": "Problem 63",
+    "title": "Find element in rotated sorted array",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 64,
-    "title": "Problem 64",
+    "title": "Find number of times a sorted array is rotated",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search"],
+    "url": ""
   },
   {
     "id": 65,
-    "title": "Problem 65",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Split Array Largest Sum",
+    "difficulty": "hard",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "dp"],
+    "url": ""
   },
   {
     "id": 66,
-    "title": "Problem 66",
+    "title": "Search in Sorted Matrix",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "matrix"],
+    "url": ""
   },
   {
     "id": 67,
-    "title": "Problem 67",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Median of Row-wise Sorted Matrix",
+    "difficulty": "hard",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "matrix"],
+    "url": ""
   },
   {
     "id": 68,
-    "title": "Problem 68",
+    "title": "Row with Maximum Ones",
     "difficulty": "medium",
-    "topic": "arrays",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "matrix"],
+    "url": ""
   },
   {
     "id": 69,
-    "title": "Problem 69",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Matrix Median",
+    "difficulty": "hard",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "matrix"],
+    "url": ""
   },
   {
     "id": 70,
-    "title": "Problem 70",
-    "difficulty": "medium",
-    "topic": "arrays",
+    "title": "Kth Element of Two Sorted Arrays",
+    "difficulty": "hard",
+    "topic": "binary-search",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["binary-search", "two-pointers"],
+    "url": ""
   },
   {
     "id": 71,
-    "title": "Problem 71",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Power Function (x^n)",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "divide-and-conquer"],
+    "url": ""
   },
   {
     "id": 72,
-    "title": "Problem 72",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Check Palindrome using Recursion",
+    "difficulty": "easy",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion"],
+    "url": ""
   },
   {
     "id": 73,
-    "title": "Problem 73",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Print all Subsequences of a String",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 74,
-    "title": "Problem 74",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Subset Sum I",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 75,
-    "title": "Problem 75",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Subset Sum II (no duplicates)",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 76,
-    "title": "Problem 76",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Combination Sum I",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 77,
-    "title": "Problem 77",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Combination Sum II",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 78,
-    "title": "Problem 78",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Permutations of array/string",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 79,
-    "title": "Problem 79",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Palindrome Partitioning",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 80,
-    "title": "Problem 80",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Kth Permutation Sequence",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "math"],
+    "url": ""
   },
   {
     "id": 81,
-    "title": "Problem 81",
+    "title": "N Queens Problem",
     "difficulty": "hard",
-    "topic": "arrays",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 82,
-    "title": "Problem 82",
+    "title": "Sudoku Solver",
     "difficulty": "hard",
-    "topic": "arrays",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 83,
-    "title": "Problem 83",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Rat in a Maze",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 84,
-    "title": "Problem 84",
+    "title": "M Coloring Problem",
     "difficulty": "hard",
-    "topic": "arrays",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "graph", "backtracking"],
+    "url": ""
   },
   {
     "id": 85,
-    "title": "Problem 85",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Word Break (Recursion)",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "dp"],
+    "url": ""
   },
   {
     "id": 86,
-    "title": "Problem 86",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Print all permutations of string",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 87,
-    "title": "Problem 87",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Letter Combinations of a Phone Number",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 88,
-    "title": "Problem 88",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Combination Sum III",
+    "difficulty": "medium",
+    "topic": "recursion",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["recursion", "backtracking"],
+    "url": ""
   },
   {
     "id": 89,
-    "title": "Problem 89",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Binary Tree Inorder Traversal",
+    "difficulty": "easy",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "recursion"],
+    "url": ""
   },
   {
     "id": 90,
-    "title": "Problem 90",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Binary Tree Preorder Traversal",
+    "difficulty": "easy",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "recursion"],
+    "url": ""
   },
   {
     "id": 91,
-    "title": "Problem 91",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Binary Tree Postorder Traversal",
+    "difficulty": "easy",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "recursion"],
+    "url": ""
   },
   {
     "id": 92,
-    "title": "Problem 92",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Level Order Traversal of Binary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "bfs"],
+    "url": ""
   },
   {
     "id": 93,
-    "title": "Problem 93",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Reverse Level Order Traversal",
+    "difficulty": "easy",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "bfs"],
+    "url": ""
   },
   {
     "id": 94,
-    "title": "Problem 94",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Height of Binary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "dfs"],
+    "url": ""
   },
   {
     "id": 95,
-    "title": "Problem 95",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Check Balanced Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "dfs"],
+    "url": ""
   },
   {
     "id": 96,
-    "title": "Problem 96",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Diameter of Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "dfs"],
+    "url": ""
   },
   {
     "id": 97,
-    "title": "Problem 97",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Check if two trees are identical",
+    "difficulty": "easy",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "dfs"],
+    "url": ""
   },
   {
     "id": 98,
-    "title": "Problem 98",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Zigzag Level Order Traversal",
+    "difficulty": "medium",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "bfs"],
+    "url": ""
   },
   {
     "id": 99,
-    "title": "Problem 99",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Boundary Traversal of Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "dfs"],
+    "url": ""
   },
   {
     "id": 100,
-    "title": "Problem 100",
-    "difficulty": "hard",
-    "topic": "arrays",
+    "title": "Top View of Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
     "status": "solved",
-    "tags": [
-      "array",
-      "practice"
-    ]
+    "tags": ["tree", "bfs", "hashmap"],
+    "url": ""
+  },
+   {
+    "id": 101,
+    "title": "Bottom View of Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs", "hashmap"],
+    "url": ""
+  },
+  {
+    "id": 102,
+    "title": "Left View of Binary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 103,
+    "title": "Right View of Binary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 104,
+    "title": "Vertical Order Traversal",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs", "map"],
+    "url": ""
+  },
+  {
+    "id": 105,
+    "title": "Top View of Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs", "map"],
+    "url": ""
+  },
+  {
+    "id": 106,
+    "title": "Check Symmetric Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 107,
+    "title": "Lowest Common Ancestor",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 108,
+    "title": "Max Path Sum in Binary Tree",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 109,
+    "title": "Time to Burn Tree",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 110,
+    "title": "Construct Tree from Inorder and Preorder",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "recursion"],
+    "url": ""
+  },
+  {
+    "id": 111,
+    "title": "Serialize and Deserialize Binary Tree",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 112,
+    "title": "Morris Inorder Traversal",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "inorder", "space-optimal"],
+    "url": ""
+  },
+  {
+    "id": 113,
+    "title": "Binary Search Tree Iterator",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "stack"],
+    "url": ""
+  },
+  {
+    "id": 114,
+    "title": "Ceil in BST",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "binary-search"],
+    "url": ""
+  },
+  {
+    "id": 115,
+    "title": "Floor in BST",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "binary-search"],
+    "url": ""
+  },
+  {
+    "id": 116,
+    "title": "Insert in BST",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 117,
+    "title": "Delete in BST",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 118,
+    "title": "Kth Smallest in BST",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "inorder"],
+    "url": ""
+  },
+  {
+    "id": 119,
+    "title": "Kth Largest in BST",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "reverse-inorder"],
+    "url": ""
+  },
+  {
+    "id": 120,
+    "title": "Validate BST",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 121,
+    "title": "LCA in BST",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 122,
+    "title": "Construct BST from Preorder",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 123,
+    "title": "Inorder Successor in BST",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 124,
+    "title": "Two Sum in BST",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "two-pointers"],
+    "url": ""
+  },
+  {
+    "id": 125,
+    "title": "Flatten Binary Tree to LinkedList",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 126,
+    "title": "Recover BST",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 127,
+    "title": "Largest BST in Binary Tree",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 128,
+    "title": "Binary Tree to DLL",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 129,
+    "title": "Burning Tree",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 130,
+    "title": "Construct Binary Tree from Postorder and Inorder",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 131,
+    "title": "Convert BST to Min Heap",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 132,
+    "title": "Minimum distance between two nodes of Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 133,
+    "title": "Distance between two nodes of BST",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 134,
+    "title": "Construct BST from Level Order",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 135,
+    "title": "Check isomorphic trees",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 136,
+    "title": "Expression Tree",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 137,
+    "title": "Maximum sum path in Binary Tree",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 138,
+    "title": "Sum Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 139,
+    "title": "Duplicate Subtree in Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "hashing"],
+    "url": ""
+  },
+  {
+    "id": 140,
+    "title": "Largest subtree sum in a tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 141,
+    "title": "K Sum Paths",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 142,
+    "title": "Lowest Common Ancestor in N-ary Tree",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 143,
+    "title": "Clone Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 144,
+    "title": "Boundary Traversal of N-ary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 145,
+    "title": "Construct Binary Tree from Inorder and Level Order",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 146,
+    "title": "Check if a tree is height-balanced",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 147,
+    "title": "Diagonal Traversal of Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 148,
+    "title": "Count Nodes in Complete Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "binary-search"],
+    "url": ""
+  },
+  {
+    "id": 149,
+    "title": "Check if Tree is Complete Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 150,
+    "title": "Check if Binary Tree is Max Heap",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 151,
+    "title": "Convert Binary Tree to Mirror Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 152,
+    "title": "Sum of Left Leaves",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 153,
+    "title": "Find All Duplicate Subtrees",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "hashing"],
+    "url": ""
+  },
+  {
+    "id": 154,
+    "title": "Construct Quad Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "divide-and-conquer"],
+    "url": ""
+  },
+  {
+    "id": 155,
+    "title": "Binary Tree Coloring Game",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 156,
+    "title": "Binary Tree Cameras",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "greedy"],
+    "url": ""
+  },
+  {
+    "id": 157,
+    "title": "All Nodes Distance K in Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 158,
+    "title": "Longest ZigZag Path in a Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 159,
+    "title": "Even-Odd Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 160,
+    "title": "Flip Equivalent Binary Trees",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "recursion"],
+    "url": ""
+  },
+  {
+    "id": 161,
+    "title": "Tree Diameter",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 162,
+    "title": "Binary Tree Maximum Width",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 163,
+    "title": "Vertical Sum in Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "map"],
+    "url": ""
+  },
+  {
+    "id": 164,
+    "title": "Convert Binary Tree to BST",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "sorting"],
+    "url": ""
+  },
+  {
+    "id": 165,
+    "title": "Print Nodes at Distance K",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 166,
+    "title": "Maximum Depth of N-ary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 167,
+    "title": "Serialize and Deserialize N-ary Tree",
+    "difficulty": "hard",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 168,
+    "title": "Path Sum in Binary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 169,
+    "title": "Path Sum II in Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "backtracking"],
+    "url": ""
+  },
+  {
+    "id": 170,
+    "title": "Path Sum III in Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 171,
+    "title": "Binary Tree Paths",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "backtracking"],
+    "url": ""
+  },
+  {
+    "id": 172,
+    "title": "Sum of Root to Leaf Binary Numbers",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 173,
+    "title": "Diameter of N-ary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 174,
+    "title": "Subtree of Another Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "recursion"],
+    "url": ""
+  },
+  {
+    "id": 175,
+    "title": "Longest Univalue Path",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 176,
+    "title": "Sum of Nodes with Even-Valued Grandparent",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 177,
+    "title": "Merge Two Binary Trees",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "recursion"],
+    "url": ""
+  },
+  {
+    "id": 178,
+    "title": "Check Completeness of Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 179,
+    "title": "Smallest Subtree with All the Deepest Nodes",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 180,
+    "title": "Distribute Coins in Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 181,
+    "title": "Binary Tree Tilt",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 182,
+    "title": "Tree Pruning",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 183,
+    "title": "Boundary Traversal of Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 184,
+    "title": "Maximum Product of Splitted Binary Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 185,
+    "title": "Find Duplicate Subtrees",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "hashmap"],
+    "url": ""
+  },
+  {
+    "id": 186,
+    "title": "All Elements in Two BSTs",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 187,
+    "title": "Check if two trees are identical",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "recursion"],
+    "url": ""
+  },
+  {
+    "id": 188,
+    "title": "Convert Binary Tree to Sum Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 189,
+    "title": "Check for Balanced Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 190,
+    "title": "Connect Nodes at Same Level",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 191,
+    "title": "Spiral Order Traversal of Binary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "bfs"],
+    "url": ""
+  },
+  {
+    "id": 192,
+    "title": "Leaf at Same Level",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 193,
+    "title": "Count Leaves in Binary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 194,
+    "title": "Print all K Sum paths in a binary tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "backtracking"],
+    "url": ""
+  },
+  {
+    "id": 195,
+    "title": "Connect Nodes at Same Level (Perfect Tree)",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 196,
+    "title": "Check for Children Sum Property",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 197,
+    "title": "Transform to Sum Tree",
+    "difficulty": "medium",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "recursion"],
+    "url": ""
+  },
+  {
+    "id": 198,
+    "title": "Sum of Leaf Nodes",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree"],
+    "url": ""
+  },
+  {
+    "id": 199,
+    "title": "Find Height of Binary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
+  },
+  {
+    "id": 200,
+    "title": "Diameter of Binary Tree",
+    "difficulty": "easy",
+    "topic": "trees",
+    "status": "solved",
+    "tags": ["tree", "dfs"],
+    "url": ""
   }
 ]
+]
+
